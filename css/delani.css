@@ -1,0 +1,137 @@
+body{
+  text-align:center;
+
+}
+#backgrounds{
+  width:100%;
+}
+.jumbo,.serv{
+  position:absolute;
+height:100%;
+width:100%;
+top:30%;
+bottom:70%;
+
+ }
+/* .container{
+  position: relative;
+  text-align: center;
+} */
+h1{
+  font-size:76px;
+  margin-top:50px;
+  font-family:"'Bungee Inline', cursive";
+  font-weight:800;
+}
+h2{
+  font-family:"'Bungee Inline', cursive";
+  font-weight: 800;
+}
+figcaption{
+  font-size:30px;
+  font-family: 'Faster One', cursive;
+}
+#hw{
+  margin-top:80px;
+}
+#hd{
+  margin-top:25px;
+}
+#hport{
+  margin-top:30px;
+}
+#mouse{
+  margin-top:200px;
+}
+.about{
+  margin-top:30px;
+  font-size:26px;
+}
+.services{
+  position:relative;
+  color:white;
+  font-size:26px;
+  
+}
+
+#whath2{
+  margin-top:50px;
+  margin-bottom:100px;
+}
+.column{
+  padding:10px, 5px, 10px, 5px;
+}
+
+.cont{
+  margin-top:20px;
+}
+
+#c-image{
+  position:relative;
+  margin-top:40px;
+}
+
+.contact{
+  position:absolute;
+  height:100%;
+  width:100%;
+  top:15%; 
+}
+.form-section{
+  position:relative;
+  color:white;
+  font-size:26px; 
+}
+.transpa{
+  background-color:transparent;
+  color:white;
+}
+.social-icons{
+  display:flex;
+  justify-content:space-between;
+  margin:40px 600px 40px 600px;
+}
+p{
+  font-size: 24px;
+}
+.design-text{
+  display:none;
+}
+.box{
+top:45%;
+left:20%;
+display:none;
+
+font-size:20px;
+background-color:white;
+}
+.reduceOpacity{
+  opacity: 0.4;
+}
+.card{
+  border:none;
+}
+.projectNames{
+  top:40%;
+left:8%;
+display:none;
+font-size:26px;
+font-family: 'Faster One', cursive;
+color:blue;
+background-color:white;
+}
+.c-right{
+  font-weight: 600;
+  
+}
+.changeColor{
+color:black;
+}
+
+.enlarge{
+  background-color:black; 
+  color:white;
+
+  
+}
+
