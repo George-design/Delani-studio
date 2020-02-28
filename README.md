@@ -8,6 +8,7 @@ This is a website which contains a virtual studio known as DELANI STUDIO which m
 git clone project
 on your terminal run code . to run the project in visual studio
 #### LIVE LINK
+https://george-design.github.io/Delani-studio/
 
 ###### TECHNOLOGY USED 
 jquery
